@@ -5,5 +5,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Widdi97/Laue-Construction/main/laue_spots.png)
 
+This image was not recorded with a white light source hence the spot intensities don't agree for all spots.
+
 ## Usage
  Add the main path to python-path and run the examples.
